@@ -1,0 +1,75 @@
+====================================================================
+  RELATÓRIO: EVOLUÇÃO DO PODER DE COMPRA NO BRASIL
+  Período analisado: Jan/2012 → Dec/2024
+====================================================================
+
+▌ 1. INFLAÇÃO (IPCA)
+────────────────────────────────────────────────────────────────────
+  Inflação total no período:               107.7%
+  Inflação média anualizada:               5.8% a.a.
+  Meses analisados:                        156
+
+▌ 2. RENDA MÉDIA
+────────────────────────────────────────────────────────────────────
+  Renda nominal inicial:                   R$ 1,500
+  Renda nominal final:                     R$ 2,958
+  Variação nominal total:                  +97.2%
+
+  Renda real inicial (R$ constantes):      R$ 1,491
+  Renda real final (R$ constantes):        R$ 1,416
+  Variação real total:                     -5.1%
+
+▌ 3. PODER DE COMPRA
+────────────────────────────────────────────────────────────────────
+  ❌ PERDA LÍQUIDA de poder de compra: -5.1%
+
+  A inflação corroeu parte da renda nominal, resultando em deterioração real da capacidade de consumo.
+
+  Meses com ganho real:                    75 meses
+  Meses com perda real:                    80 meses
+
+▌ 4. MELHORES E PIORES JANELAS DE 12 MESES
+────────────────────────────────────────────────────────────────────
+  Melhor período (12 meses):               +4.3%  → até Jun/2017
+  Pior período (12 meses):                 -6.7%  → até Apr/2022
+
+▌ 5. EVENTOS ECONÔMICOS MARCANTES NO PERÍODO
+────────────────────────────────────────────────────────────────────
+  • 2015-01  –  Crise fiscal Dilma
+  • 2016-05  –  Impeachment Dilma
+  • 2018-05  –  Greve dos caminhoneiros
+  • 2020-03  –  Pandemia COVID-19
+  • 2021-01  –  Auxílio Emergencial
+  • 2022-06  –  Inflação pico (12,1%)
+  • 2023-01  –  Lula III Posse
+
+▌ 6. RESUMO ANUAL
+────────────────────────────────────────────────────────────────────
+   Ano     IPCA    Renda Nom.    Renda Real  Idx Nom.  Idx Real
+  --------------------------------------------------------------
+  2012     6.0%  R$     1,544  R$     1,500    106.0    100.6
+  2013     5.8%  R$     1,636  R$     1,498    112.0    100.5
+  2014     6.2%  R$     1,736  R$     1,497    117.7     99.5
+  2015    10.6%  R$     1,813  R$     1,436    123.9     94.7
+  2016     6.7%  R$     1,927  R$     1,402    133.1     95.3
+  2017     3.0%  R$     2,049  R$     1,438    139.7     97.1
+  2018     3.7%  R$     2,144  R$     1,451    146.0     97.9
+  2019     4.3%  R$     2,250  R$     1,468    153.2     98.5
+  2020     4.5%  R$     2,380  R$     1,505    160.9     99.0
+  2021    10.1%  R$     2,465  R$     1,440    167.8     93.8
+  2022     5.4%  R$     2,593  R$     1,387    176.9     93.8
+  2023     4.7%  R$     2,728  R$     1,399    186.8     94.7
+  2024     5.3%  R$     2,886  R$     1,414    197.2     94.9
+
+▌ 7. INTERPRETAÇÃO ECONÔMICA
+────────────────────────────────────────────────────────────────────
+  Entre Jan/2012 e Dec/2024, o Brasil acumulou 108% de inflação (IPCA), enquanto a renda nominal média cresceu 97%. O resultado líquido sobre o poder de compra foi de -5.1%.
+
+  O período foi marcado por ciclos distintos: a recessão de 2015-2016 comprimiu salários reais; o choque da COVID-19 em 2020 afetou o mercado de trabalho, mas o Auxílio Emergencial sustentou a renda das famílias mais vulneráveis temporariamente. A reabertura econômica em 2021-2022 trouxe inflação elevada, corroendo poder de compra dos assalariados.
+
+  A perda real de poder de compra indica que a inflação superou o crescimento da renda nominal ao longo do período. Isso representa uma deterioração real do bem-estar médio, particularmente severa para famílias de renda fixa e classes mais baixas, que gastam proporcionalmente mais com itens de alta inflação (alimentos e energia).
+
+====================================================================
+  Fonte: IBGE – IPCA (tab. 1737) e PNAD Contínua (tab. 5932)
+  Elaboração própria | Projeto: Análise de Poder de Compra Brasil
+====================================================================
