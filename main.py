@@ -2,8 +2,8 @@
 # main.py – Ponto de entrada do projeto "Poder de Compra no Brasil"
 """
 Uso:
-    python main.py          # tenta API IBGE; cai em modo mock se indisponível
-    python main.py --mock   # força dados sintéticos (desenvolvimento/teste)
+    python main.py           # tenta API IBGE; usa dados reais offline se indisponível
+    python main.py --offline # força modo offline com dados reais IBGE
     python main.py --help
 """
 
@@ -22,25 +22,21 @@ def banner():
     print("""
 ╔══════════════════════════════════════════════════════════════════╗
 ║       ANÁLISE DE PODER DE COMPRA NO BRASIL  (2012 – 2024)       ║
-║   Dados: IBGE – IPCA (SIDRA 1737) + PNAD Contínua (SIDRA 5932) ║
+║   Dados: IBGE – IPCA (tab. 1737) + PNAD Contínua (tab. 6390)   ║
+║   Fallback offline: dados reais IBGE publicações oficiais        ║
 ╚══════════════════════════════════════════════════════════════════╝
 """)
 
 
-def main(force_mock: bool = False):
+def main(force_offline: bool = False):
     banner()
     t0 = time.time()
 
     # ── 1. Coleta ─────────────────────────────────────────────────────────────
-    if force_mock:
-        df = dc.build_dataset_mock()
+    if force_offline:
+        df = dc.build_dataset_ibge_real()
     else:
-        try:
-            df = dc.build_dataset()
-        except Exception as exc:
-            print(f"  [AVISO] Falha na API IBGE ({exc})\n"
-                  "          Alternando para dados sintéticos realistas...\n")
-            df = dc.build_dataset_mock()
+        df = dc.build_dataset_with_fallback()
 
     if df.empty:
         print("[ERRO] Nenhum dado disponível. Encerrando.")
@@ -66,15 +62,14 @@ def main(force_mock: bool = False):
     print(f"    • {OUTPUT_DIR}/relatorio.txt")
     print(f"{'─'*68}\n")
 
-    # Salva CSV enriquecido para análises futuras
     csv_path = os.path.join(OUTPUT_DIR, "dados_completos.csv")
     df.to_csv(csv_path, float_format="%.4f")
     print(f"  Dataset completo salvo em: {csv_path}\n")
 
 
 if __name__ == "__main__":
-    force = "--mock" in sys.argv or "-m" in sys.argv
+    force = "--offline" in sys.argv or "-o" in sys.argv
     if "--help" in sys.argv or "-h" in sys.argv:
         print(__doc__)
         sys.exit(0)
-    main(force_mock=force)
+    main(force_offline=force)

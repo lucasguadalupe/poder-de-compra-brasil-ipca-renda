@@ -5,33 +5,33 @@
 
 ▌ 1. INFLAÇÃO (IPCA)
 ────────────────────────────────────────────────────────────────────
-  Inflação total no período:               107.7%
+  Inflação total no período:               107.4%
   Inflação média anualizada:               5.8% a.a.
   Meses analisados:                        156
 
 ▌ 2. RENDA MÉDIA
 ────────────────────────────────────────────────────────────────────
-  Renda nominal inicial:                   R$ 1,500
-  Renda nominal final:                     R$ 2,958
-  Variação nominal total:                  +97.2%
+  Renda nominal inicial:                   R$ 1,404
+  Renda nominal final:                     R$ 3,225
+  Variação nominal total:                  +129.7%
 
-  Renda real inicial (R$ constantes):      R$ 1,491
-  Renda real final (R$ constantes):        R$ 1,416
-  Variação real total:                     -5.1%
+  Renda real inicial (R$ constantes):      R$ 1,396
+  Renda real final (R$ constantes):        R$ 1,546
+  Variação real total:                     +10.7%
 
 ▌ 3. PODER DE COMPRA
 ────────────────────────────────────────────────────────────────────
-  ❌ PERDA LÍQUIDA de poder de compra: -5.1%
+  ✅ GANHO LÍQUIDO de poder de compra: +10.7%
 
-  A inflação corroeu parte da renda nominal, resultando em deterioração real da capacidade de consumo.
+  A renda cresceu acima da inflação no período, representando uma melhora real na capacidade de consumo da população.
 
-  Meses com ganho real:                    75 meses
-  Meses com perda real:                    80 meses
+  Meses com ganho real:                    95 meses
+  Meses com perda real:                    60 meses
 
 ▌ 4. MELHORES E PIORES JANELAS DE 12 MESES
 ────────────────────────────────────────────────────────────────────
-  Melhor período (12 meses):               +4.3%  → até Jun/2017
-  Pior período (12 meses):                 -6.7%  → até Apr/2022
+  Melhor período (12 meses):               +7.4%  → até Jan/2014
+  Pior período (12 meses):                 -8.4%  → até Jan/2021
 
 ▌ 5. EVENTOS ECONÔMICOS MARCANTES NO PERÍODO
 ────────────────────────────────────────────────────────────────────
@@ -39,7 +39,7 @@
   • 2016-05  –  Impeachment Dilma
   • 2018-05  –  Greve dos caminhoneiros
   • 2020-03  –  Pandemia COVID-19
-  • 2021-01  –  Auxílio Emergencial
+  • 2021-01  –  Fim aux. Emergencial
   • 2022-06  –  Inflação pico (12,1%)
   • 2023-01  –  Lula III Posse
 
@@ -47,27 +47,27 @@
 ────────────────────────────────────────────────────────────────────
    Ano     IPCA    Renda Nom.    Renda Real  Idx Nom.  Idx Real
   --------------------------------------------------------------
-  2012     6.0%  R$     1,544  R$     1,500    106.0    100.6
-  2013     5.8%  R$     1,636  R$     1,498    112.0    100.5
-  2014     6.2%  R$     1,736  R$     1,497    117.7     99.5
-  2015    10.6%  R$     1,813  R$     1,436    123.9     94.7
-  2016     6.7%  R$     1,927  R$     1,402    133.1     95.3
-  2017     3.0%  R$     2,049  R$     1,438    139.7     97.1
-  2018     3.7%  R$     2,144  R$     1,451    146.0     97.9
-  2019     4.3%  R$     2,250  R$     1,468    153.2     98.5
-  2020     4.5%  R$     2,380  R$     1,505    160.9     99.0
-  2021    10.1%  R$     2,465  R$     1,440    167.8     93.8
-  2022     5.4%  R$     2,593  R$     1,387    176.9     93.8
-  2023     4.7%  R$     2,728  R$     1,399    186.8     94.7
-  2024     5.3%  R$     2,886  R$     1,414    197.2     94.9
+  2012     5.8%  R$     1,490  R$     1,448    112.2    106.6
+  2013     5.9%  R$     1,688  R$     1,545    127.2    114.1
+  2014     6.4%  R$     1,884  R$     1,622    139.9    117.9
+  2015    10.7%  R$     2,004  R$     1,583    144.5    110.1
+  2016     6.3%  R$     2,062  R$     1,498    148.8    106.7
+  2017     3.0%  R$     2,152  R$     1,511    157.4    109.6
+  2018     3.8%  R$     2,261  R$     1,531    163.9    110.0
+  2019     4.3%  R$     2,384  R$     1,556    175.3    112.8
+  2020     4.5%  R$     2,427  R$     1,536    169.4    104.3
+  2021    10.1%  R$     2,557  R$     1,493    195.5    109.3
+  2022     5.8%  R$     2,871  R$     1,534    211.0    111.5
+  2023     4.6%  R$     3,091  R$     1,579    228.2    115.3
+  2024     4.8%  R$     3,225  R$     1,579    229.7    110.7
 
 ▌ 7. INTERPRETAÇÃO ECONÔMICA
 ────────────────────────────────────────────────────────────────────
-  Entre Jan/2012 e Dec/2024, o Brasil acumulou 108% de inflação (IPCA), enquanto a renda nominal média cresceu 97%. O resultado líquido sobre o poder de compra foi de -5.1%.
+  Entre Jan/2012 e Dec/2024, o Brasil acumulou 107% de inflação (IPCA), enquanto a renda nominal média cresceu 130%. O resultado líquido sobre o poder de compra foi de +10.7%.
 
   O período foi marcado por ciclos distintos: a recessão de 2015-2016 comprimiu salários reais; o choque da COVID-19 em 2020 afetou o mercado de trabalho, mas o Auxílio Emergencial sustentou a renda das famílias mais vulneráveis temporariamente. A reabertura econômica em 2021-2022 trouxe inflação elevada, corroendo poder de compra dos assalariados.
 
-  A perda real de poder de compra indica que a inflação superou o crescimento da renda nominal ao longo do período. Isso representa uma deterioração real do bem-estar médio, particularmente severa para famílias de renda fixa e classes mais baixas, que gastam proporcionalmente mais com itens de alta inflação (alimentos e energia).
+  O ganho real acumulado indica que a renda cresceu de forma estruturalmente acima da inflação, possivelmente refletindo expansão do mercado de trabalho formal e políticas de valorização do salário mínimo em parte do período.
 
 ====================================================================
   Fonte: IBGE – IPCA (tab. 1737) e PNAD Contínua (tab. 5932)
